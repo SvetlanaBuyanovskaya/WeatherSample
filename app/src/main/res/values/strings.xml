@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherSample</string>
+    <string name="select_town">Select Town</string>
+    <string name="temp">Temp:</string>
+    <string-array name="cities">
+        <item>Kiev</item>
+        <item>Odessa</item>
+        <item>Lviv</item>
+        <item>Kharkiv</item>
+    </string-array>
+</resources>
